@@ -1,3 +1,2 @@
-# MI-GPSR
-## Intelligent Robotic Sonographer: Mutual Information-based Disentangled Reward Learning from Few Demonstrations
-### To be continued ......
+# Intelligent Robotic Sonographer: Mutual Information-based Disentangled Reward Learning from Few Demonstrations
+
