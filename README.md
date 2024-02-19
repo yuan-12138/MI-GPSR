@@ -1,2 +1,3 @@
-# Intelligent Robotic Sonographer: Mutual Information-based Disentangled Reward Learning from Few Demonstrations
+# Intelligent Robotic Sonographer: 
+## Mutual Information-based Disentangled Reward Learning from Few Demonstrations
 
