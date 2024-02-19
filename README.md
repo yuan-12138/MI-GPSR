@@ -19,15 +19,16 @@ Considering the generalization capability to overcome inter-patient variations, 
 If you found this work interesting and adopted part of it to your own research, or if this work inspires your research, you can cite our paper by:
 
 ```
-@inproceedings{pasnn23,
-  title     = {Intelligent robotic sonographer: Mutual information-based disentangled reward learning from few demonstrations},
-  author    = {Jiang, Zhongliang and
-               Bi, Yuan and
-               Zhou, Mingchuan and
-               Hu, Ying and
-               Burke, Michael and
-               Navab, Nassir},
-  journal = {The International Journal of Robotics Research},
-  year = {2023}
+@article{jiang2023intelligent,
+  title={Intelligent robotic sonographer: Mutual information-based disentangled reward learning from few demonstrations},
+  author={Jiang, Zhongliang and
+          Bi, Yuan and
+          Zhou, Mingchuan and
+          Hu, Ying and
+          Burke, Michael and
+          Navab, Nassir},
+  journal={The International Journal of Robotics Research},
+  pages={02783649231223547},
+  publisher={SAGE Publications Sage UK: London, England}
 }
 ```
