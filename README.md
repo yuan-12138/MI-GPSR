@@ -8,5 +8,26 @@ his work proposes an intelligent robotic sonographer to autonomously â€œexploreâ
 </div>
 Considering the generalization capability to overcome inter-patient variations, mutual information is estimated by a network to explicitly disentangle the task-related and domain features in latent space.
 <div align="center">
-<img src=assets/MI_GPSR_network_structure.png  width=80% title=asadsds/>
+<img src=assets/MI_GPSR_network_structure.png  width=60% title=asadsds/>
 </div>
+
+#### Video Demo
+[![Alt text](assets/video_cover.png)](https://www.youtube.com/watch?v=u4ThAA9onE0)
+
+
+#### Citation
+If you found this work interesting and adopted part of it to your own research, or if this work inspires your research, you can cite our paper by:
+
+```
+@inproceedings{pasnn23,
+  title     = {Intelligent robotic sonographer: Mutual information-based disentangled reward learning from few demonstrations},
+  author    = {Jiang, Zhongliang and
+               Bi, Yuan and
+               Zhou, Mingchuan and
+               Hu, Ying and
+               Burke, Michael and
+               Navab, Nassir},
+  journal = {The International Journal of Robotics Research},
+  year = {2023}
+}
+```
