@@ -305,8 +305,8 @@ def train():
                 with torch.no_grad():
                     
                     for idx, test_data in enumerate(testloader):                        
-                        test_input_1=data[0].view(-1,1,256,256).float().to(device)
-                        test_input_2=data[1].view(-1,1,256,256).float().to(device)
+                        test_input_1=test_data[0].view(-1,1,256,256).float().to(device)
+                        test_input_2=test_data[1].view(-1,1,256,256).float().to(device)
                         
                         recon_loss_1, Recon_result_1 = update_Rec(test_input_1,False)
                         recon_loss_2, Recon_result_2 = update_Rec(test_input_2,False)
